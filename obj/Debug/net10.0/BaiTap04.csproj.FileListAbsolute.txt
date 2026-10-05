@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Pictures\Documents\BaiTap04\bin\Debug\net10.0\BaiTap04.exe
+C:\Users\Admin\OneDrive\Pictures\Documents\BaiTap04\bin\Debug\net10.0\BaiTap04.deps.json
+C:\Users\Admin\OneDrive\Pictures\Documents\BaiTap04\bin\Debug\net10.0\BaiTap04.runtimeconfig.json
+C:\Users\Admin\OneDrive\Pictures\Documents\BaiTap04\bin\Debug\net10.0\BaiTap04.dll
+C:\Users\Admin\OneDrive\Pictures\Documents\BaiTap04\bin\Debug\net10.0\BaiTap04.pdb
+C:\Users\Admin\OneDrive\Pictures\Documents\BaiTap04\obj\Debug\net10.0\BaiTap04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Pictures\Documents\BaiTap04\obj\Debug\net10.0\BaiTap04.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Pictures\Documents\BaiTap04\obj\Debug\net10.0\BaiTap04.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Pictures\Documents\BaiTap04\obj\Debug\net10.0\BaiTap04.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Pictures\Documents\BaiTap04\obj\Debug\net10.0\BaiTap04.dll
+C:\Users\Admin\OneDrive\Pictures\Documents\BaiTap04\obj\Debug\net10.0\refint\BaiTap04.dll
+C:\Users\Admin\OneDrive\Pictures\Documents\BaiTap04\obj\Debug\net10.0\BaiTap04.pdb
+C:\Users\Admin\OneDrive\Pictures\Documents\BaiTap04\obj\Debug\net10.0\BaiTap04.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Pictures\Documents\BaiTap04\obj\Debug\net10.0\ref\BaiTap04.dll
